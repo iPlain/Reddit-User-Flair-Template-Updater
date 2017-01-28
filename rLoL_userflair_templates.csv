@@ -1,0 +1,217 @@
+;flair-aatrox
+;flair-ahri
+;flair-akali
+;flair-alistar
+;flair-amumu
+;flair-anivia
+;flair-annie
+;flair-ashe
+;flair-aurelionsol
+;flair-azir
+;flair-bard
+;flair-blitzcrank
+;flair-brand
+;flair-braum
+;flair-caitlyn
+;flair-camille
+;flair-cassiopeia
+;flair-chogath
+;flair-corki
+;flair-darius
+;flair-diana
+;flair-draven
+;flair-drmundo
+;flair-ekko
+;flair-elise
+;flair-evelynn
+;flair-ezreal
+;flair-fiddlesticks
+;flair-fiora
+;flair-fizz
+;flair-galio
+;flair-gangplank
+;flair-garen
+;flair-gnar
+;flair-gragas
+;flair-graves
+;flair-hecarim
+;flair-heimerdinger
+;flair-illaoi
+;flair-irelia
+;flair-ivern
+;flair-janna
+;flair-jarvaniv
+;flair-jax
+;flair-jayce
+;flair-jhin
+;flair-jinx
+;flair-kalista
+;flair-karma
+;flair-karthus
+;flair-kassadin
+;flair-katarina
+;flair-kayle
+;flair-kennen
+;flair-khazix
+;flair-kindred
+;flair-kled
+;flair-kogmaw
+;flair-leblanc
+;flair-leesin
+;flair-leona
+;flair-lissandra
+;flair-lucian
+;flair-lulu
+;flair-lux
+;flair-malphite
+;flair-malzahar
+;flair-maokai
+;flair-masteryi
+;flair-missfortune
+;flair-mordekaiser
+;flair-morgana
+;flair-nami
+;flair-nasus
+;flair-nautilus
+;flair-nidalee
+;flair-nocturne
+;flair-nunu
+;flair-olaf
+;flair-orianna
+;flair-pantheon
+;flair-poppy
+;flair-quinn
+;flair-rammus
+;flair-reksai
+;flair-renekton
+;flair-rengar
+;flair-riven
+;flair-rumble
+;flair-ryze
+;flair-sejuani
+;flair-shaco
+;flair-shen
+;flair-shyvana
+;flair-singed
+;flair-sion
+;flair-sivir
+;flair-skarner
+;flair-sona
+;flair-soraka
+;flair-swain
+;flair-syndra
+;flair-tahmkench
+;flair-taliyah
+;flair-talon
+;flair-taric
+;flair-teemo
+;flair-thresh
+;flair-tristana
+;flair-trundle
+;flair-tryndamere
+;flair-twistedfate
+;flair-twitch
+;flair-udyr
+;flair-urgot
+;flair-varus
+;flair-vayne
+;flair-veigar
+;flair-velkoz
+;flair-vi
+;flair-viktor
+;flair-vladimir
+;flair-volibear
+;flair-warwick
+;flair-wukong
+;flair-xerath
+;flair-xinzhao
+;flair-yasuo
+;flair-yorick
+;flair-zac
+;flair-zed
+;flair-ziggs
+;flair-zilean
+;flair-zyra
+;flair-team flair-00
+;flair-team flair-01
+;flair-team flair-nvy
+;flair-team flair-03
+;flair-team flair-fly
+;flair-team flair-imm
+;flair-team flair-07
+;flair-team flair-ef
+;flair-team flair-phx
+;flair-team flair-dig
+;flair-team flair-g2
+;flair-team flair-11
+;flair-team flair-vit
+;flair-team flair-13
+;flair-team flair-msf
+;flair-team flair-15
+;flair-team flair-spl
+;flair-team flair-17
+;flair-team flair-18
+;flair-team flair-19
+;flair-team flair-20
+;flair-team flair-fbl
+;flair-team flair-22
+;flair-team flair-23
+;flair-team flair-jtm
+;flair-team flair-hwv
+;flair-team flair-26
+;flair-team flair-ws
+;flair-team flair-30
+;flair-team flair-32
+;flair-team flair-33
+;flair-team flair-34
+;flair-team flair-35
+;flair-team flair-37
+;flair-team flair-40
+;flair-team flair-qg
+;flair-team flair-gmt
+;flair-team flair-43
+;flair-team flair-may
+;flair-team flair-nwb
+;flair-team flair-70
+;flair-team flair-mvp
+;flair-team flair-lzg
+;flair-team flair-73
+;flair-team flair-74
+;flair-team flair-75
+;flair-team flair-bbq
+;flair-team flair-77
+;flair-team flair-kdm
+;flair-team flair-aff
+;flair-team flair-50
+;flair-team flair-51
+;flair-team flair-52
+;flair-team flair-53
+;flair-team flair-54
+;flair-team flair-55
+;flair-team flair-56
+;flair-team flair-57
+;flair-team flair-60
+;flair-team flair-61
+;flair-team flair-62
+;flair-team flair-63
+;flair-team flair-64
+;flair-team flair-65
+;flair-team flair-66
+;flair-team flair-67
+;flair-team flair-red
+;flair-team flair-81
+;flair-team flair-82
+;flair-team flair-83
+;flair-team flair-rbrv
+;flair-team flair-85
+;flair-team flair-87
+;flair-team flair-opk
+;flair-team flair-ae
+;flair-team flair-O1
+;flair-team flair-O2
+;flair-team flair-O3
+;flair-team flair-tm
+;flair-team flair-O5
+;flair-team flair-O6
+;flair-team flair-x5
+;flair-team flair-nox
