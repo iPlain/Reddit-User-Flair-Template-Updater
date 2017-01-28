@@ -1,2 +1,2 @@
-# Reddit-User-Flair-Template-Updater
+# Reddit userflair template updater
 A simple python script to re-order the user flair templates of a subreddit by reading from a csv file.

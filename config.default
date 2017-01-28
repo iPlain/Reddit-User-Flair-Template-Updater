@@ -1,0 +1,10 @@
+[Login]
+username = 
+password = 
+client_id = 
+client_secret = 
+
+[Misc]
+target_subreddit = 
+csv_file = userflair_templates.csv
+hovertext_editable = False
